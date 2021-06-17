@@ -1,0 +1,2 @@
+rootProject.name = "databaseadapterapp"
+include ':app'
